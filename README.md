@@ -2,7 +2,7 @@
 
 Personal portfolio of **Abhishek Kumar**, Software Engineer (Java) — Spring Boot · Hibernate · Microservices · AWS.
 
-🌐 Live: https://abhi65443.github.io
+🌐 Live: https://abhi65443.github.io/AbhishekPortfolio/
 
 ## Stack
 Single-page site in plain HTML, CSS and JavaScript — no build step.
